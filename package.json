@@ -1,0 +1,27 @@
+{
+  "name": "s03-o-recipies",
+  "version": "1.0.0",
+  "description": "Exo de révision complet du début de S03. On y révise les \"dernières tendances\" du Cockpit !",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/O-clock-Kelvin/S03-o-recipies.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/O-clock-Kelvin/S03-o-recipies/issues"
+  },
+  "homepage": "https://github.com/O-clock-Kelvin/S03-o-recipies#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.1"
+  },
+  "keywords": []
+}
