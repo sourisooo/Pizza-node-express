@@ -1,0 +1,81 @@
+h1 {
+
+    color: #f0f;
+    min-width: 70vw;
+    background-color: black;
+
+
+
+}
+
+img {
+
+    max-width: 40vw;
+    max-height: 40vh;
+   
+
+}
+
+li {
+
+
+    background-color: aqua;
+    display: block;
+    text-transform: capitalize;
+
+  
+
+
+    
+
+
+}
+
+
+ul {
+
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+
+
+}
+
+
+ul > li {
+
+    font-size: 1em;
+  
+
+
+
+    
+
+}
+
+body {
+
+    max-width: 70vw;
+    margin-left: 15vw;
+    margin-right: 15vw;
+    text-align: center;
+
+}
+
+div {
+
+    font-size: 1.6em;
+  
+
+
+}
+
+footer {
+
+    color: #f0f;
+    min-width: 70vw;
+    background-color: black;
+    margin-top: 5em;
+
+}
